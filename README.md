@@ -55,16 +55,16 @@ sistema-escolar/
 
 ## Skills demostrados
 
-- ✅ `INNER JOIN` — Queries 1, 2, 3
-- ✅ `LEFT JOIN` con preservación de filas — Queries 4, 5
-- ✅ Múltiples JOINs encadenados — Queries 6, 7, 11, 15
-- ✅ `SELF JOIN` para jerarquías — Query 8
-- ✅ `SELF JOIN` con condiciones complejas — Queries 9, 10
-- ✅ `COUNT(DISTINCT)` con `LEFT JOIN` — Queries 5, 6, 13, 15
-- ✅ Detección de registros huérfanos — Query 14
-- ✅ `HAVING` para filtrar grupos — Query 13
-- ✅ `COALESCE` para valores nulos — Queries 4, 8, 11
-- ✅ `LIMIT` para top-N — Query 12
+- `INNER JOIN` — Queries 1, 2, 3
+- `LEFT JOIN` con preservación de filas — Queries 4, 5
+- Múltiples JOINs encadenados — Queries 6, 7, 11, 15
+- `SELF JOIN` para jerarquías — Query 8
+- `SELF JOIN` con condiciones complejas — Queries 9, 10
+- `COUNT(DISTINCT)` con `LEFT JOIN` — Queries 5, 6, 13, 15
+- Detección de registros huérfanos — Query 14
+- `HAVING` para filtrar grupos — Query 13
+- `COALESCE` para valores nulos — Queries 4, 8, 11
+- `LIMIT` para top-N — Query 12
 
 ## Queries destacadas
 
